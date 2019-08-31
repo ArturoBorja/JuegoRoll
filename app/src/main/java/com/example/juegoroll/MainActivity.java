@@ -24,12 +24,13 @@ public class MainActivity extends AppCompatActivity {
     ImageView img_bot;
     ImageView img_right;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         IniciarPantalla();
-
+        String a =getResources().getString(R.string.arma);
         btn_bot.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

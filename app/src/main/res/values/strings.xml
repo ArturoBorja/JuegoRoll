@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JuegoRoll</string>
+    <string name="arma">espada#hacha#maso#alabarda#daga#arco#baculo#</string>
+    <string name="material">madera#bambu#cobre#bronce#acero#mitril#fuego sagrado</string>
+    <string name="armadura">cota#yelmo#mascara#corona#botas#hombreras#tunica#escudo#armadura completa</string>
+    <string name="consumible">mapa astral#carta astral#libro astral#tonico raro#hunguento raro#carne brillante</string>
+    <string name="quien">trasgo#orco#demonio#arcangel#satan#tirael#java</string>
 </resources>
